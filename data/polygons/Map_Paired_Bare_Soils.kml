@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mapa_suelos_desnudoss.kml</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Suelos desnudos</name>
+		<open>1</open>
+		<Placemark>
+			<name>Polígono 1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.645739221543,21.17427637743515,0 -101.6461394503053,21.17353881904869,0 -101.644843094602,21.17314059170679,0 -101.6444077487568,21.17394943400972,0 -101.645739221543,21.17427637743515,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 2</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.632797375061,21.16150199075408,0 -101.632013713367,21.16239823987916,0 -101.6323572039214,21.16275063567226,0 -101.6330229618409,21.16328743622862,0 -101.6334247927227,21.16292078027549,0 -101.6331396718306,21.16253084909589,0 -101.6334001328731,21.16209257408964,0 -101.632797375061,21.16150199075408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 3</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.6407785107306,21.16794713747309,0 -101.6406604228932,21.16819083393786,0 -101.6409519689808,21.16825122296191,0 -101.6408489698049,21.16863003159141,0 -101.6412726320196,21.16876004825434,0 -101.6413577948722,21.16864585813458,0 -101.6419631149644,21.16883381944907,0 -101.6422879733223,21.1685238031033,0 -101.6420066285192,21.16836337190023,0 -101.6411021450824,21.16796434857587,0 -101.6407785107306,21.16794713747309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 4</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.6381212127733,21.15301994930517,0 -101.6412785474954,21.15606687599759,0 -101.6431081100581,21.15371542356557,0 -101.6405486782492,21.15084081679829,0 -101.6381212127733,21.15301994930517,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Poligono 5</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.6441283580377,21.1634262651048,0 -101.644179959053,21.16308000537398,0 -101.6437735301579,21.16284892110918,0 -101.6436269450574,21.16243176621821,0 -101.6433887851544,21.16213998134445,0 -101.6431226209207,21.16253759604989,0 -101.6427116696286,21.16327114278981,0 -101.6441283580377,21.1634262651048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 6</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.7125001725372,21.2118114081475,0 -101.7155414249053,21.21339464826023,0 -101.7168974658929,21.21354843787581,0 -101.7171881791027,21.21170416700945,0 -101.7174936509516,21.20928261163323,0 -101.7137341024913,21.20762733744616,0 -101.712426438794,21.20745886471009,0 -101.7125001725372,21.2118114081475,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 7</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.5754229253071,21.07737953213235,0 -101.5751231654854,21.07303368430819,0 -101.570701060147,21.07146273124383,0 -101.5699344405039,21.07494844526842,0 -101.5703725599909,21.07766252092731,0 -101.5745642948977,21.07865608986139,0 -101.5754229253071,21.07737953213235,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 8</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-101.652440309328,21.17347202489288,0 -101.6520081300536,21.17438564507197,0 -101.652441799632,21.1752611714028,0 -101.6529273900405,21.17559800695521,0 -101.6532542420274,21.17518285213917,0 -101.653769641699,21.17551485969528,0 -101.6549436908461,21.1741752174854,0 -101.652440309328,21.17347202489288,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
